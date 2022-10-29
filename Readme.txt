@@ -1,5 +1,5 @@
 Karim Shahi Niyar
-AI98_PR_HW2
+
 
 Qiau.ac.ir
 Azad University of Qazvin: AI 
